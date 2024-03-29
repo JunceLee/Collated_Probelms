@@ -56,7 +56,7 @@ Data Security(Dataset) https://github.com/opendatahub-io-contrib/data-mesh-patte
 Data Security(in Model Using) https://github.com/FosterFlow/fosterflow/issues/235  
 Data Security(in Model Using) https://github.com/huggingface/chat-ui/issues/817  
 
-## Stack Overflow
+## Stack Overflow Posts
 Data Quality( Diversity)	https://Data science.stackexchange.com/questions/85008/model-inclines-because-of-imbalanced-Data  
 Data Quality(Source)	https://stackoverflow.com/questions/54506219/retrain-production-model-with-labeled-predicted-Data  
 Data Dependency(Version)	https://stackoverflow.com/questions/56052133/training-a-model-using-Data -set  
@@ -99,4 +99,20 @@ Data Security(Platform Security)	https://stackoverflow.com/questions/77573642/do
 Data Security(Platform Security)	https://stackoverflow.com/questions/76374270/which-model-to-use-if-i-need-to-train-sensitive-text-Data -and-later-i-want-to-se  
 Data Security(Platform Security)	https://stackoverflow.com/questions/76630211/efficient-way-to-store-and-process-large-amounts-of-Data -in-huggingface  
 Data Security(Platform Security)	https://stackoverflow.com/questions/77940275/classlabel-disappear-after-loading-Data setdict-hugging-face  
-Data Security(Platform Security)	https://stackoverflow.com/questions/78008866/huggingface-load-Data set-messes-up-the-structure-of-the-Data set  
+[Data Security(Platform Security)](https://stackoverflow.com/questions/78008866/huggingface-load-Data set-messes-up-the-structure-of-the-Data set)  
+
+## Hugging Face Posts
+[Data Standard(Platform)](https://discuss.huggingface.co/t/imagefolder-dataset-builder-for-hf-hub-dataset/74383)    
+[Data Quality(Source)](https://discuss.huggingface.co/t/model-fine-tuning-migration/74047)  
+[Data Standard(Platform)](https://discuss.huggingface.co/t/hugging-face-datasets-and-applying-transformations/74145)  
+[Data Dependency(Version)](https://discuss.huggingface.co/t/how-to-represent-old-vs-new-data/74630)  
+[Data Standard(Platform)](https://discuss.huggingface.co/t/how-to-disable-caching-in-load-dataset/71144)  
+[Data Standard(Platform)](https://discuss.huggingface.co/t/huggingface-cli-to-load-dataset/71158)  
+[Data Security(Platform Security)](https://discuss.huggingface.co/t/data-privacy-using-hugging-face-models/17227)   
+[Data Standard(Platform)](https://discuss.huggingface.co/t/image-dataset-best-practices/13974)  
+[Data Standard(Processing)](https://discuss.huggingface.co/t/new-fine-tuner-question-struggles/30864)   
+[Data Security(Platform Security)](https://discuss.huggingface.co/t/announcement-new-terms-of-service-on-huggingface-co/6525)  
+[Data Security(Dataset)](https://discuss.huggingface.co/t/can-patient-health-data-be-used-with-pre-trained-models/42849)  
+[Data Security(Dataset)](https://discuss.huggingface.co/t/can-we-collect-crowd-source-dataset-via-huggingface-dataset/69165/2)  
+[Data Standard(Platform)](https://discuss.huggingface.co/t/does-hugging-face-save-your-data/43263)  
+
